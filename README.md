@@ -3,7 +3,7 @@ In lab computers, to open jupyter, navigate to the desired folder in terminal an
 <br><br>
 module load sagemath<br>
 sage -n jupyter
-<br><br><br><br>
+<br><br>
 
 ### Week to subjects/keyworks:
 Week 1 — The One-Time Pad, Perfect Secrecy and Computational Security, Enciphering schemes: Perfect Secrecy, the One-Time Pad, Shannon's Theorem, Computational Security and Blockciphers a fire alarm, Computational Security and Blockciphers
