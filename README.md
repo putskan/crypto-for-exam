@@ -5,7 +5,7 @@ module load sagemath<br>
 sage -n jupyter
 <br><br>
 
-### Week to subjects/keyworks:
+### Week to subjects/keywords:
 Week 1 — The One-Time Pad, Perfect Secrecy and Computational Security, Enciphering schemes: Perfect Secrecy, the One-Time Pad, Shannon's Theorem, Computational Security and Blockciphers a fire alarm, Computational Security and Blockciphers
 <br><br>
 Week 2 - Modes of Operations and Reductions None-based encryption: Syntax, Security, Modes of Operation, Reductions
